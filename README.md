@@ -22,8 +22,8 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 
 ## PROGRAM:
-### Developed By: Aashima Nazreen Sayeed S
-### Register Number: 212221240002
+Developed By: Aashima Nazreen Sayeed S
+Register Number: 212221240002
 
 ### i) To Read,display the image
 ```
